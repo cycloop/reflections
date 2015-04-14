@@ -26,3 +26,10 @@ What are some situations when branches would be helpful in keeping your history
 	different version or change the language i can make a branch by using
 	"git branch <name-of-brance>" and start working on the same program but as
 	a different project of the first one.
+
+How do the diagrams help you visualize the branch structure?
+
+    From the diagram i can see where a branch was started and which version of the
+	master branch are after another side branch. i can see how branches are connected
+	and which branches can be seen by using git log from the current commit i am.
+	I can find the branch i want to work further on a new feature.
