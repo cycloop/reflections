@@ -11,3 +11,10 @@ What value do you think it offers?
 	The repository finally is the place where the different version will be saved.
 	It adds the value of making your own choice rather than git taking over and 
 	saving all the files.
+	
+How can you use the staging area to make sure you have one commit per logical
+change?
+    
+	By running "git diff --staged" i can see the difference between the files i want 
+	to commit and the previous ones so i can check how many logical changes i have
+	made.
