@@ -18,3 +18,11 @@ change?
 	By running "git diff --staged" i can see the difference between the files i want 
 	to commit and the previous ones so i can check how many logical changes i have
 	made.
+	
+What are some situations when branches would be helpful in keeping your history
+ organized? How would branches help?
+ 
+    When i want to make some changes to course of a program or i want to make a
+	different version or change the language i can make a branch by using
+	"git branch <name-of-brance>" and start working on the same program but as
+	a different project of the first one.
