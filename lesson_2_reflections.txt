@@ -42,3 +42,10 @@ diagram the way we do?
 	the new commits are introduced between the previous commits by date. After the 
 	merge the commits can be reached from the point the merge was done and you 
 	can delete the extra branch.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+ manually?
+ 
+    When using automatic merging it saves a lot of time of doing it by hand but when 
+    two people have modified the same line conflicts occur which you must go correct
+    by hand. 	
