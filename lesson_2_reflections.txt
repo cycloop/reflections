@@ -33,3 +33,12 @@ How do the diagrams help you visualize the branch structure?
 	master branch are after another side branch. i can see how branches are connected
 	and which branches can be seen by using git log from the current commit i am.
 	I can find the branch i want to work further on a new feature.
+	
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+    When merging two branches together the starting files must be exactly the same
+	regarding	the spaces and tabs you use as	it was before the branch. After the merge
+	the new commits are introduced between the previous commits by date. After the 
+	merge the commits can be reached from the point the merge was done and you 
+	can delete the extra branch.
