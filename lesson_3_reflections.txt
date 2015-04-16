@@ -24,3 +24,12 @@ What is the benefit of having a copy of the last known state of the remote store
 
   You can merge the two branches, if somebody else has changed the github file, in order to 
   push the two version on github later so as to be updated.
+  
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+  I could collaborate using e-mails, or google docs but the thing is that i would have to open 
+  the files and merge the files manually. i would have to make many different files for versions
+  of my projects ad it would fill with a lot of files difficult to track in the end. I would collaborate
+  less efficient since git and github offer a very organised way to work with others apart from the
+  slow learing curve.
