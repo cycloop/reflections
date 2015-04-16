@@ -33,3 +33,12 @@ would be harder?
   of my projects ad it would fill with a lot of files difficult to track in the end. I would collaborate
   less efficient since git and github offer a very organised way to work with others apart from the
   slow learing curve.
+  
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+  When i want to post changes to my code on github in order to have some feedback i will 
+  make a different branch with the change and push this branch in github and i'll make  a
+  pull request. After the code has been evaluated by peers and collaborators i will then make 
+  the merge with the master branch. So it allows flexibility as it concerns the overall colaboration
+  and the addition of code and features and changes.
