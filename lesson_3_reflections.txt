@@ -19,3 +19,8 @@ instead of another?
   Branches are kind of copies of pre-existing branch ,like master branch, at which i can make 
   changes change or add features and add documentation without affecting the master branch or
   any other.
+  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  You can merge the two branches, if somebody else has changed the github file, in order to 
+  push the two version on github later so as to be updated.
